@@ -292,7 +292,7 @@ st.markdown(
         <div class="metric-text">Client Satisfaction</div>
     </div>
     <div class="glass-card">
-        <div class="metric-number">₦2M+</div>
+        <div class="metric-number">₦5M+</div>
         <div class="metric-text">Revenue Insights</div>
     </div>
 </div>
